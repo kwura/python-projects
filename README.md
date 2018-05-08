@@ -4,7 +4,7 @@ Here you'll find python projects that I have completed for CS 303E Elements of C
 What fascinated me about the Elements of Computing Program was that the objective was not to learn how to program, but instead to learn how to solve systemic problems effectively. The projects ranged from analyzing the extensive vocabulary of profound literary figures, such as Charles Dickens, to simulating a game of poker by using object-oriented programming.
 
 ### CS 303E Elements of Computing - Dr. Shyamal Mitra
-This was the introductory computer science course. We covered basic computer architecture and software components, while also learning how to program in Python, a high level language.
+This was an introductory computer science course. We covered basic computer architecture and software components, while also learning how to program in Python, a high level language.
 We learned problem solving techniques for numerical and scientific problems, studied some special features of Python, developed our own algorithms, and translated these algorithms to computer code.
 
 
