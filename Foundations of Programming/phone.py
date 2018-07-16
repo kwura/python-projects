@@ -37,5 +37,6 @@ def main():
 	  
   if detectNum = False:
     print("No phone number could be found!") 
+main()
   
   
