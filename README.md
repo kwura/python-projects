@@ -1,6 +1,6 @@
 # python-projects
 
-Here you'll find python projects during my undergraduate computer science coursework. During this time I became fascinated with the material as the objective was not to learn how to program, but instead to learn how to solve systemic problems effectively. The projects ranged from analyzing the extensive vocabulary of profound literary figures, such as Charles Dickens, to simulating a game of poker by using object-oriented programming.
+Here you'll find python projects during my undergraduate computer science coursework. During this time I became fascinated wih this study as the objective was not to learn how to program, but instead to learn how to solve systemic problems effectively. The projects ranged from analyzing the extensive vocabulary of profound literary figures, such as Charles Dickens, to simulating a game of poker by using object-oriented programming.
 
 If you have any questions about my programs or would like further detail of the projects please feel free to message me. 
 
