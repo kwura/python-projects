@@ -1,7 +1,7 @@
 # Object-oriented Programming, Data Structures, Algorithms
 
 ### Project Name and Description
-* **Art.py** - My reccursive art. Choose up to 6 levels.
+* **Art.py** - My recursive art. Choose up to 6 levels.
 * **BabyNames** - Allows a user to query a data base of the 1000 most popular baby names (US) for the past 11 decades. Scrapes text from a website.
 * **Blackjack.py** - Simulates a game of Blackjack. Up to 6 players.
 * **Boxes.py** - Applies the concepts of recursion in determining the largest subset of nesting boxes. Uses the boxes.txt file.
