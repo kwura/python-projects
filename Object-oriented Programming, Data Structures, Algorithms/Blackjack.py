@@ -184,9 +184,7 @@ class Blackjack (object):
     dealerPoints = self.dealer.getPoints()
     print ('Dealer: ' + str(self.dealer))
 
-    # determine the outcome; you will have to re-write the code
-    # it was written for just one player having playerPoints
-    # do not output result for dealer
+    # determines the outcome
     print()
     for i in range(len(playerPoints)):
       if playerPoints[i] > 21:
